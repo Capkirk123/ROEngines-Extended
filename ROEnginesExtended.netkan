@@ -1,14 +1,16 @@
 {
     "spec_version"   : "v1.4",
     "$kref"          : "#/ckan/github/Capkirk123/ROEngines-Extended",
-    //"$vref"          : "#/ckan/ksp-avc",
-    "ksp_version": 1.12.3,
+    "$vref"          : "#/ckan/ksp-avc",
     "x_netkan_force_v": true,
     "name"           : "ROEnginesExtended",
     "identifier"     : "ROEnginesExtended",
     "abstract"       : "ROEnginesExtended is a mod that duplicates and tweaks existing ROEngines parts to create placeholders for more obscure engines.",
     "author"         : "capkirk123",
-    "license"        : "CC BY-NC-ND 4.0",
+    "license"        : "CC-BY-NC-ND-4.0",
+    "resources"      : {
+        "homepage"   : "https://github.com/Capkirk123/ROEngines-Extended",
+	},
     "release_status" : "stable",
     "depends" : [
         { "name" : "ROEngines" },
@@ -25,7 +27,7 @@
     ],
     "install" : [
         {
-            "file"       : "GameData/ROEnginesExtended",
+            "find"       : "GameData/ROEnginesExtended",
             "install_to" : "GameData"
         }
     ]
