@@ -1,0 +1,31 @@
+{
+    "spec_version"   : "v1.00",
+    "$kref"          : "#/ckan/github/Capkirk123/ROEngines-Extended",
+    "$vref"          : "#/ckan/ksp-avc",
+    "x_netkan_force_v": true,
+    "name"           : "ROEnginesExtended",
+    "identifier"     : "ROEnginesExtended",
+    "abstract"       : "ROEnginesExtended is a mod that duplicates and tweaks existing ROEngines parts to create placeholders for more obscure engines.",
+    "author"         : "capkirk123",
+    "license"        : "CC BY-NC-ND 4.0",
+    "release_status" : "stable",
+    "depends" : [
+        { "name" : "ROEngines" },
+        { "name" : "Waterfall" }
+    ],
+    "recommends" : [
+        { "name" : "TexturesUnlimited" },
+        { "name" : "ROCapsules" },
+        { "name" : "ROTanks" },
+        { "name" : "RP-0" }
+    ],
+    "conflicts" : [
+        { "name" : "TweakableEverythingCont" }
+    ],
+    "install" : [
+        {
+            "file"       : "GameData/ROEnginesExtended",
+            "install_to" : "GameData"
+        }
+    ]
+}
