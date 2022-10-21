@@ -1,7 +1,8 @@
 {
     "spec_version"   : "v1.4",
     "$kref"          : "#/ckan/github/Capkirk123/ROEngines-Extended",
-    "$vref"          : "#/ckan/ksp-avc",
+    //"$vref"          : "#/ckan/ksp-avc",
+    "ksp_version": 1.12.3,
     "x_netkan_force_v": true,
     "name"           : "ROEnginesExtended",
     "identifier"     : "ROEnginesExtended",
