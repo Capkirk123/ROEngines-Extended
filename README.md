@@ -44,7 +44,6 @@ To make my life easier, only waterfall plumes are supported.
   * MB-60 (Based on J-2X from SSTU by ShadowMage)
   * Merlin 2 (Based on Merlin 1C from SSTU by ShadowMage)
   * NK-15VM (Based on NK-43 from RealEngines by Alcentar)
-  * R-42 HiPAT (Based on R-42 from NicheParts by MockingBird)
   * RD-0131 (CH-4 by Luci & TheBeastlyPig)
   * RD-0162 (Based on NK-33 from RealEngines by Alcentar)
   * RD-0164 (Based on RD-191 from RealEngines by Alcentar)
