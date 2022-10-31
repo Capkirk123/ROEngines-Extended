@@ -36,7 +36,6 @@ To make my life easier, only waterfall plumes are supported.
   * COBRA (Based on RS-25 from Rocket Motor Menagerie by EStreetRockets)
   * COBRA-High (Based on RS-25 from Rocket Motor Menagerie by EStreetRockets)
   * E-2 (CH-4 by Luci & TheBeastlyPig)
-  * E-2 Vac (CH-4 by Luci & TheBeastlyPig)
   * G-1 (Based on Juno 6k from Bluedog Design Bureau by CobaltWolf)
   * ISE100 (Based on LEROS-1b from NicheParts by MockingBird)
   * MB-35 (Based on J-2X from SSTU by ShadowMage)
