@@ -37,7 +37,6 @@ To make my life easier, only waterfall plumes are supported.
   * COBRA (Based on RS-25 from Rocket Motor Menagerie by EStreetRockets)
   * COBRA-High (Based on RS-25 from Rocket Motor Menagerie by EStreetRockets)
   * E-2 (CH-4 by Luci & TheBeastlyPig)
-  * G-1 (Based on Juno 6k from Bluedog Design Bureau by CobaltWolf)
   * INsTAR (Based on SNTP from Bluedog Design Bureau by CobaltWolf)
   * ISE100 (Based on LEROS-1b from NicheParts by MockingBird)
   * LE-3 (Based on AJ10-118F from Bluedog Design Bureau by CobaltWolf)
