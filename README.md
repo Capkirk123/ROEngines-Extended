@@ -70,3 +70,11 @@ To make my life easier, only waterfall plumes are supported.
   * XLR99A (CH-4 by Luci & TheBeastlyPig)
   * XLR132 (Based on Merlin 1CV from SSTU by ShadowMage)
   * YF-77 (Based on Merlin 1D from SSTU by ShadowMage)
+* Solid Engines
+  * FW-5 (Based on Altair from US Rockets by RaiderNick)
+  * SR28 (Based on Alcyone 1 from Bluedog Design Bureau by CobaltWolf)
+  * Star-13B (Based on Star-13 from Bluedog Design Bureau by CobaltWolf)
+  * SVM-1 (Based on Alcyone 1 from Bluedog Design Bureau by CobaltWolf)
+  * SVM-2 (Based on Alcyone 1 from Bluedog Design Bureau by CobaltWolf)
+  * SVM-4A (Based on Alcyone 1 from Bluedog Design Bureau by CobaltWolf)
+  * SVM-5 (Based on Alcyone 1 from Bluedog Design Bureau by CobaltWolf)
