@@ -20,7 +20,7 @@
         { "name" : "TexturesUnlimited" },
         { "name" : "ROCapsules" },
         { "name" : "ROTanks" },
-        { "name" : "RP-0" }
+        { "name" : "RP-1" }
     ],
     "conflicts" : [
         { "name" : "TweakableEverythingCont" }
